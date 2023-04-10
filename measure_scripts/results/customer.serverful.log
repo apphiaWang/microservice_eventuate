@@ -1,0 +1,720 @@
+{"customerId":38}
+     time_namelookup:  0.052110s
+        time_connect:  0.084201s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.084270s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.421137s
+                     ----------
+          time_total:  0.421210s
+{"customerId":39}
+     time_namelookup:  0.030013s
+        time_connect:  0.060933s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.061028s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.174097s
+                     ----------
+          time_total:  0.174159s
+{"customerId":40}
+     time_namelookup:  0.022515s
+        time_connect:  0.052868s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052910s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.157054s
+                     ----------
+          time_total:  0.157116s
+{"customerId":41}
+     time_namelookup:  0.025075s
+        time_connect:  0.054403s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054494s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.136013s
+                     ----------
+          time_total:  0.136437s
+{"customerId":42}
+     time_namelookup:  0.020652s
+        time_connect:  0.050124s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050188s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.129662s
+                     ----------
+          time_total:  0.129718s
+{"customerId":43}
+     time_namelookup:  0.024190s
+        time_connect:  0.054367s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054399s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.110850s
+                     ----------
+          time_total:  0.110880s
+{"customerId":44}
+     time_namelookup:  0.019280s
+        time_connect:  0.050837s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050874s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.117758s
+                     ----------
+          time_total:  0.117830s
+{"customerId":45}
+     time_namelookup:  0.022133s
+        time_connect:  0.052806s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052858s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.128733s
+                     ----------
+          time_total:  0.128802s
+{"customerId":46}
+     time_namelookup:  0.022911s
+        time_connect:  0.055346s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055504s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.118800s
+                     ----------
+          time_total:  0.118849s
+{"customerId":47}
+     time_namelookup:  0.028240s
+        time_connect:  0.045558s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.045599s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.121057s
+                     ----------
+          time_total:  0.121135s
+{"customerId":48}
+     time_namelookup:  0.019416s
+        time_connect:  0.040755s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.040811s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.110960s
+                     ----------
+          time_total:  0.111050s
+{"customerId":49}
+     time_namelookup:  0.020703s
+        time_connect:  0.048024s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.048117s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.090070s
+                     ----------
+          time_total:  0.105059s
+{"customerId":50}
+     time_namelookup:  0.020541s
+        time_connect:  0.049082s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049132s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.099252s
+                     ----------
+          time_total:  0.116465s
+{"customerId":51}
+     time_namelookup:  0.022042s
+        time_connect:  0.054076s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054132s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.129242s
+                     ----------
+          time_total:  0.129356s
+{"customerId":52}
+     time_namelookup:  0.026641s
+        time_connect:  0.055035s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055098s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.099436s
+                     ----------
+          time_total:  0.099524s
+{"customerId":53}
+     time_namelookup:  0.022401s
+        time_connect:  0.063676s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.063729s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.143505s
+                     ----------
+          time_total:  0.143588s
+{"customerId":54}
+     time_namelookup:  0.022432s
+        time_connect:  0.050161s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050226s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.102009s
+                     ----------
+          time_total:  0.102081s
+{"customerId":55}
+     time_namelookup:  0.014190s
+        time_connect:  0.044520s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.044561s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.097498s
+                     ----------
+          time_total:  0.097579s
+{"customerId":56}
+     time_namelookup:  0.021054s
+        time_connect:  0.049595s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049637s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.096191s
+                     ----------
+          time_total:  0.096274s
+{"customerId":57}
+     time_namelookup:  0.021939s
+        time_connect:  0.052043s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052083s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.095696s
+                     ----------
+          time_total:  0.095932s
+{"customerId":58}
+     time_namelookup:  0.021938s
+        time_connect:  0.052537s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052594s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.095802s
+                     ----------
+          time_total:  0.095876s
+{"customerId":59}
+     time_namelookup:  0.021745s
+        time_connect:  0.052275s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052339s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.113776s
+                     ----------
+          time_total:  0.113849s
+{"customerId":60}
+     time_namelookup:  0.025418s
+        time_connect:  0.053972s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054027s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.099459s
+                     ----------
+          time_total:  0.099528s
+{"customerId":61}
+     time_namelookup:  0.023825s
+        time_connect:  0.053980s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054024s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.112654s
+                     ----------
+          time_total:  0.112721s
+{"customerId":62}
+     time_namelookup:  0.023247s
+        time_connect:  0.055574s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055618s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.117840s
+                     ----------
+          time_total:  0.117924s
+{"customerId":63}
+     time_namelookup:  0.021388s
+        time_connect:  0.050681s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050728s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.100171s
+                     ----------
+          time_total:  0.100243s
+{"customerId":64}
+     time_namelookup:  0.023444s
+        time_connect:  0.052388s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052429s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.118132s
+                     ----------
+          time_total:  0.118217s
+{"customerId":65}
+     time_namelookup:  0.021852s
+        time_connect:  0.053110s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053157s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.138804s
+                     ----------
+          time_total:  0.161379s
+{"customerId":66}
+     time_namelookup:  0.023400s
+        time_connect:  0.058900s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.058987s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.101510s
+                     ----------
+          time_total:  0.101552s
+{"customerId":67}
+     time_namelookup:  0.041620s
+        time_connect:  0.070150s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.070210s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.113958s
+                     ----------
+          time_total:  0.114005s
+{"customerId":68}
+     time_namelookup:  0.022558s
+        time_connect:  0.050752s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050808s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.108048s
+                     ----------
+          time_total:  0.108091s
+{"customerId":69}
+     time_namelookup:  0.023888s
+        time_connect:  0.051187s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051220s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.105006s
+                     ----------
+          time_total:  0.105092s
+{"customerId":70}
+     time_namelookup:  0.023663s
+        time_connect:  0.053945s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053999s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.101038s
+                     ----------
+          time_total:  0.101106s
+{"customerId":71}
+     time_namelookup:  0.031252s
+        time_connect:  0.061928s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.061972s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.178371s
+                     ----------
+          time_total:  0.178446s
+{"customerId":72}
+     time_namelookup:  0.015404s
+        time_connect:  0.045626s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.045681s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.099030s
+                     ----------
+          time_total:  0.099097s
+{"customerId":73}
+     time_namelookup:  0.022751s
+        time_connect:  0.054668s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054701s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085455s
+                     ----------
+          time_total:  0.099078s
+{"customerId":74}
+     time_namelookup:  0.048523s
+        time_connect:  0.079498s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.079573s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.124608s
+                     ----------
+          time_total:  0.124660s
+{"customerId":75}
+     time_namelookup:  0.022829s
+        time_connect:  0.051809s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051862s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.113313s
+                     ----------
+          time_total:  0.113375s
+{"customerId":76}
+     time_namelookup:  0.024323s
+        time_connect:  0.056589s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.056630s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.104152s
+                     ----------
+          time_total:  0.104198s
+{"customerId":77}
+     time_namelookup:  0.025178s
+        time_connect:  0.052459s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052496s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.095050s
+                     ----------
+          time_total:  0.095106s
+{"customerId":88}
+     time_namelookup:  0.050845s
+        time_connect:  0.080534s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.080692s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.651315s
+                     ----------
+          time_total:  0.651532s
+{"customerId":89}
+     time_namelookup:  0.027992s
+        time_connect:  0.062606s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.062656s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.116925s
+                     ----------
+          time_total:  0.117008s
+{"customerId":90}
+     time_namelookup:  0.023759s
+        time_connect:  0.046946s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.046985s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.104371s
+                     ----------
+          time_total:  0.104448s
+{"customerId":91}
+     time_namelookup:  0.023127s
+        time_connect:  0.053958s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054028s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.169724s
+                     ----------
+          time_total:  0.185842s
+{"customerId":92}
+     time_namelookup:  0.027077s
+        time_connect:  0.056938s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.057026s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.210393s
+                     ----------
+          time_total:  0.210472s
+{"customerId":93}
+     time_namelookup:  0.026569s
+        time_connect:  0.055786s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055832s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.137429s
+                     ----------
+          time_total:  0.137468s
+{"customerId":94}
+     time_namelookup:  0.070344s
+        time_connect:  0.099245s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.099314s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.186924s
+                     ----------
+          time_total:  0.187140s
+{"customerId":95}
+     time_namelookup:  0.021505s
+        time_connect:  0.051128s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051209s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.107526s
+                     ----------
+          time_total:  0.107620s
+{"customerId":96}
+     time_namelookup:  0.026060s
+        time_connect:  0.054774s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054863s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.130766s
+                     ----------
+          time_total:  0.130836s
+{"customerId":97}
+     time_namelookup:  0.020307s
+        time_connect:  0.048408s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.048500s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.128291s
+                     ----------
+          time_total:  0.128360s
+{"customerId":98}
+     time_namelookup:  0.022850s
+        time_connect:  0.050942s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050981s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.105090s
+                     ----------
+          time_total:  0.105256s
+{"customerId":99}
+     time_namelookup:  0.022212s
+        time_connect:  0.051002s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051038s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.106285s
+                     ----------
+          time_total:  0.106329s
+{"customerId":100}
+     time_namelookup:  0.017463s
+        time_connect:  0.045237s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.045273s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.101457s
+                     ----------
+          time_total:  0.116723s
+{"customerId":101}
+     time_namelookup:  0.020012s
+        time_connect:  0.049067s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049107s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.139976s
+                     ----------
+          time_total:  0.140022s
+{"customerId":102}
+     time_namelookup:  0.025336s
+        time_connect:  0.053947s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053984s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.107756s
+                     ----------
+          time_total:  0.107891s
+{"customerId":103}
+     time_namelookup:  0.026661s
+        time_connect:  0.055794s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055860s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.127955s
+                     ----------
+          time_total:  0.128034s
+{"customerId":104}
+     time_namelookup:  0.021686s
+        time_connect:  0.052071s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052127s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.105226s
+                     ----------
+          time_total:  0.105304s
+{"customerId":105}
+     time_namelookup:  0.022860s
+        time_connect:  0.054297s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054373s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.107277s
+                     ----------
+          time_total:  0.107353s
+{"customerId":106}
+     time_namelookup:  0.020416s
+        time_connect:  0.053589s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053659s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.334683s
+                     ----------
+          time_total:  0.334739s
+{"customerId":107}
+     time_namelookup:  0.019416s
+        time_connect:  0.049836s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049866s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.096879s
+                     ----------
+          time_total:  0.096929s
+{"customerId":108}
+     time_namelookup:  0.025488s
+        time_connect:  0.057592s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.057632s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.131110s
+                     ----------
+          time_total:  0.131188s
+{"customerId":109}
+     time_namelookup:  0.021007s
+        time_connect:  0.056955s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.057007s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.130526s
+                     ----------
+          time_total:  0.148137s
+{"customerId":110}
+     time_namelookup:  0.026054s
+        time_connect:  0.055297s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055328s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.097877s
+                     ----------
+          time_total:  0.097939s
+{"customerId":111}
+     time_namelookup:  0.022663s
+        time_connect:  0.052124s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052175s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.121767s
+                     ----------
+          time_total:  0.121822s
+{"customerId":112}
+     time_namelookup:  0.021414s
+        time_connect:  0.052797s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052840s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.125428s
+                     ----------
+          time_total:  0.125490s
+{"customerId":113}
+     time_namelookup:  0.023855s
+        time_connect:  0.055335s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055395s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.122353s
+                     ----------
+          time_total:  0.122429s
+{"customerId":114}
+     time_namelookup:  0.021116s
+        time_connect:  0.054692s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054738s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.123583s
+                     ----------
+          time_total:  0.123687s
+{"customerId":115}
+     time_namelookup:  0.027274s
+        time_connect:  0.055098s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055164s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.103149s
+                     ----------
+          time_total:  0.121677s
+{"customerId":116}
+     time_namelookup:  0.013799s
+        time_connect:  0.047085s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.047133s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.113364s
+                     ----------
+          time_total:  0.113672s
+{"customerId":117}
+     time_namelookup:  0.048430s
+        time_connect:  0.076440s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.076507s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.122771s
+                     ----------
+          time_total:  0.122843s
+{"customerId":118}
+     time_namelookup:  0.022701s
+        time_connect:  0.050300s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050388s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.093819s
+                     ----------
+          time_total:  0.118630s
+{"customerId":119}
+     time_namelookup:  0.025020s
+        time_connect:  0.055979s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.056030s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.109018s
+                     ----------
+          time_total:  0.109067s
+{"customerId":120}
+     time_namelookup:  0.028666s
+        time_connect:  0.059776s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.059810s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.127563s
+                     ----------
+          time_total:  0.127638s
+{"customerId":121}
+     time_namelookup:  0.022864s
+        time_connect:  0.051591s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051645s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.106125s
+                     ----------
+          time_total:  0.106195s
+{"customerId":122}
+     time_namelookup:  0.021560s
+        time_connect:  0.049269s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049304s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.077333s
+                     ----------
+          time_total:  0.093492s
+{"customerId":123}
+     time_namelookup:  0.020772s
+        time_connect:  0.048971s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049006s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.094695s
+                     ----------
+          time_total:  0.094790s
+{"customerId":124}
+     time_namelookup:  0.023398s
+        time_connect:  0.053851s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053890s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.098944s
+                     ----------
+          time_total:  0.099001s
+{"customerId":125}
+     time_namelookup:  0.026298s
+        time_connect:  0.055723s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055804s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.099004s
+                     ----------
+          time_total:  0.099043s
+{"customerId":126}
+     time_namelookup:  0.024653s
+        time_connect:  0.055325s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055360s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085181s
+                     ----------
+          time_total:  0.103897s
+{"customerId":127}
+     time_namelookup:  0.022057s
+        time_connect:  0.050495s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050539s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.093343s
+                     ----------
+          time_total:  0.117039s

@@ -1,0 +1,720 @@
+{"status":"UP"}
+     time_namelookup:  0.044172s
+        time_connect:  0.074712s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.074815s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.100843s
+                     ----------
+          time_total:  0.100918s
+{"status":"UP"}
+     time_namelookup:  0.023358s
+        time_connect:  0.054760s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054839s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084579s
+                     ----------
+          time_total:  0.084642s
+{"status":"UP"}
+     time_namelookup:  0.042218s
+        time_connect:  0.072301s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.072372s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.101137s
+                     ----------
+          time_total:  0.101214s
+{"status":"UP"}
+     time_namelookup:  0.025695s
+        time_connect:  0.054131s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054198s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083090s
+                     ----------
+          time_total:  0.083160s
+{"status":"UP"}
+     time_namelookup:  0.051241s
+        time_connect:  0.080736s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.080807s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.108937s
+                     ----------
+          time_total:  0.108995s
+{"status":"UP"}
+     time_namelookup:  0.021690s
+        time_connect:  0.052241s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052314s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085170s
+                     ----------
+          time_total:  0.085245s
+{"status":"UP"}
+     time_namelookup:  0.023803s
+        time_connect:  0.054144s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054227s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084667s
+                     ----------
+          time_total:  0.084729s
+{"status":"UP"}
+     time_namelookup:  0.022082s
+        time_connect:  0.053506s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053579s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083347s
+                     ----------
+          time_total:  0.083419s
+{"status":"UP"}
+     time_namelookup:  0.025425s
+        time_connect:  0.062647s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.062683s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.091753s
+                     ----------
+          time_total:  0.091813s
+{"status":"UP"}
+     time_namelookup:  0.025617s
+        time_connect:  0.054327s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054410s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082060s
+                     ----------
+          time_total:  0.082116s
+{"status":"UP"}
+     time_namelookup:  0.021280s
+        time_connect:  0.046327s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.046365s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.075722s
+                     ----------
+          time_total:  0.075802s
+{"status":"UP"}
+     time_namelookup:  0.021329s
+        time_connect:  0.042475s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.042552s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.070314s
+                     ----------
+          time_total:  0.070390s
+{"status":"UP"}
+     time_namelookup:  0.020665s
+        time_connect:  0.049019s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049070s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.077867s
+                     ----------
+          time_total:  0.077935s
+{"status":"UP"}
+     time_namelookup:  0.023280s
+        time_connect:  0.041500s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.041551s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.069619s
+                     ----------
+          time_total:  0.069683s
+{"status":"UP"}
+     time_namelookup:  0.023024s
+        time_connect:  0.050394s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050447s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078523s
+                     ----------
+          time_total:  0.078598s
+{"status":"UP"}
+     time_namelookup:  0.019912s
+        time_connect:  0.049585s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049669s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078593s
+                     ----------
+          time_total:  0.078673s
+{"status":"UP"}
+     time_namelookup:  0.021900s
+        time_connect:  0.040158s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.040241s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.068939s
+                     ----------
+          time_total:  0.069011s
+{"status":"UP"}
+     time_namelookup:  0.020776s
+        time_connect:  0.049225s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049299s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078685s
+                     ----------
+          time_total:  0.078765s
+{"status":"UP"}
+     time_namelookup:  0.020966s
+        time_connect:  0.042367s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.042419s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.073272s
+                     ----------
+          time_total:  0.073349s
+{"status":"UP"}
+     time_namelookup:  0.020684s
+        time_connect:  0.050435s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050499s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079433s
+                     ----------
+          time_total:  0.079505s
+{"status":"UP"}
+     time_namelookup:  0.021230s
+        time_connect:  0.051655s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051717s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081883s
+                     ----------
+          time_total:  0.081969s
+{"status":"UP"}
+     time_namelookup:  0.024110s
+        time_connect:  0.062688s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.062769s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.094305s
+                     ----------
+          time_total:  0.094375s
+{"status":"UP"}
+     time_namelookup:  0.025164s
+        time_connect:  0.057275s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.057348s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.086898s
+                     ----------
+          time_total:  0.086975s
+{"status":"UP"}
+     time_namelookup:  0.022725s
+        time_connect:  0.052505s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052587s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081639s
+                     ----------
+          time_total:  0.081707s
+{"status":"UP"}
+     time_namelookup:  0.023204s
+        time_connect:  0.052031s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052085s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080776s
+                     ----------
+          time_total:  0.080853s
+{"status":"UP"}
+     time_namelookup:  0.023916s
+        time_connect:  0.054556s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054633s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084770s
+                     ----------
+          time_total:  0.084840s
+{"status":"UP"}
+     time_namelookup:  0.022307s
+        time_connect:  0.053252s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053359s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081272s
+                     ----------
+          time_total:  0.081353s
+{"status":"UP"}
+     time_namelookup:  0.021508s
+        time_connect:  0.050021s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050081s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078978s
+                     ----------
+          time_total:  0.079066s
+{"status":"UP"}
+     time_namelookup:  0.022885s
+        time_connect:  0.051839s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051923s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080026s
+                     ----------
+          time_total:  0.080101s
+{"status":"UP"}
+     time_namelookup:  0.022281s
+        time_connect:  0.054110s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054196s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083811s
+                     ----------
+          time_total:  0.083939s
+{"status":"UP"}
+     time_namelookup:  0.023702s
+        time_connect:  0.054152s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054215s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084584s
+                     ----------
+          time_total:  0.084763s
+{"status":"UP"}
+     time_namelookup:  0.023458s
+        time_connect:  0.052158s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052228s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080315s
+                     ----------
+          time_total:  0.080392s
+{"status":"UP"}
+     time_namelookup:  0.022500s
+        time_connect:  0.053357s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053441s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083437s
+                     ----------
+          time_total:  0.083512s
+{"status":"UP"}
+     time_namelookup:  0.024103s
+        time_connect:  0.052666s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052734s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080463s
+                     ----------
+          time_total:  0.080514s
+{"status":"UP"}
+     time_namelookup:  0.023716s
+        time_connect:  0.053328s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053368s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082259s
+                     ----------
+          time_total:  0.082317s
+{"status":"UP"}
+     time_namelookup:  0.021545s
+        time_connect:  0.052191s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052229s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081884s
+                     ----------
+          time_total:  0.081945s
+{"status":"UP"}
+     time_namelookup:  0.023795s
+        time_connect:  0.063612s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.063638s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.093157s
+                     ----------
+          time_total:  0.093203s
+{"status":"UP"}
+     time_namelookup:  0.013480s
+        time_connect:  0.041642s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.041666s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.069839s
+                     ----------
+          time_total:  0.069881s
+{"status":"UP"}
+     time_namelookup:  0.023321s
+        time_connect:  0.052289s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052438s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080450s
+                     ----------
+          time_total:  0.080504s
+{"status":"UP"}
+     time_namelookup:  0.019568s
+        time_connect:  0.050798s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050834s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080503s
+                     ----------
+          time_total:  0.080567s
+{"status":"UP"}
+     time_namelookup:  0.041528s
+        time_connect:  0.070813s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.070886s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.100683s
+                     ----------
+          time_total:  0.114861s
+{"status":"UP"}
+     time_namelookup:  0.024634s
+        time_connect:  0.052935s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053012s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081342s
+                     ----------
+          time_total:  0.081595s
+{"status":"UP"}
+     time_namelookup:  0.020450s
+        time_connect:  0.049357s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049399s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082924s
+                     ----------
+          time_total:  0.083015s
+{"status":"UP"}
+     time_namelookup:  0.020985s
+        time_connect:  0.050467s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050543s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079717s
+                     ----------
+          time_total:  0.079788s
+{"status":"UP"}
+     time_namelookup:  0.021696s
+        time_connect:  0.049853s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049899s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.077784s
+                     ----------
+          time_total:  0.077856s
+{"status":"UP"}
+     time_namelookup:  0.020304s
+        time_connect:  0.048475s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.048532s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078053s
+                     ----------
+          time_total:  0.078125s
+{"status":"UP"}
+     time_namelookup:  0.022265s
+        time_connect:  0.051735s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051772s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081471s
+                     ----------
+          time_total:  0.081569s
+{"status":"UP"}
+     time_namelookup:  0.023343s
+        time_connect:  0.052966s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053019s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084569s
+                     ----------
+          time_total:  0.084649s
+{"status":"UP"}
+     time_namelookup:  0.023692s
+        time_connect:  0.053264s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053339s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081398s
+                     ----------
+          time_total:  0.081471s
+{"status":"UP"}
+     time_namelookup:  0.022978s
+        time_connect:  0.053316s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053393s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082396s
+                     ----------
+          time_total:  0.082516s
+{"status":"UP"}
+     time_namelookup:  0.021213s
+        time_connect:  0.053959s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054056s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085427s
+                     ----------
+          time_total:  0.085499s
+{"status":"UP"}
+     time_namelookup:  0.021654s
+        time_connect:  0.048933s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049002s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.076745s
+                     ----------
+          time_total:  0.076825s
+{"status":"UP"}
+     time_namelookup:  0.020566s
+        time_connect:  0.051685s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051750s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083115s
+                     ----------
+          time_total:  0.083304s
+{"status":"UP"}
+     time_namelookup:  0.026573s
+        time_connect:  0.046859s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.046894s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.075333s
+                     ----------
+          time_total:  0.075402s
+{"status":"UP"}
+     time_namelookup:  0.027177s
+        time_connect:  0.055216s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055278s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.084828s
+                     ----------
+          time_total:  0.084910s
+{"status":"UP"}
+     time_namelookup:  0.020065s
+        time_connect:  0.047173s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.047240s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.074941s
+                     ----------
+          time_total:  0.075021s
+{"status":"UP"}
+     time_namelookup:  0.019496s
+        time_connect:  0.037186s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.037263s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.066029s
+                     ----------
+          time_total:  0.066116s
+{"status":"UP"}
+     time_namelookup:  0.023238s
+        time_connect:  0.052685s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052841s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080849s
+                     ----------
+          time_total:  0.080920s
+{"status":"UP"}
+     time_namelookup:  0.021505s
+        time_connect:  0.050592s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050637s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.080588s
+                     ----------
+          time_total:  0.080677s
+{"status":"UP"}
+     time_namelookup:  0.020520s
+        time_connect:  0.048970s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049019s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078291s
+                     ----------
+          time_total:  0.078382s
+{"status":"UP"}
+     time_namelookup:  0.021974s
+        time_connect:  0.050364s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050438s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079452s
+                     ----------
+          time_total:  0.079533s
+{"status":"UP"}
+     time_namelookup:  0.021457s
+        time_connect:  0.052710s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052775s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082683s
+                     ----------
+          time_total:  0.082763s
+{"status":"UP"}
+     time_namelookup:  0.020662s
+        time_connect:  0.052933s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052967s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083340s
+                     ----------
+          time_total:  0.083380s
+{"status":"UP"}
+     time_namelookup:  0.024692s
+        time_connect:  0.054917s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054948s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085080s
+                     ----------
+          time_total:  0.085114s
+{"status":"UP"}
+     time_namelookup:  0.024936s
+        time_connect:  0.055513s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.055596s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.085456s
+                     ----------
+          time_total:  0.085571s
+{"status":"UP"}
+     time_namelookup:  0.022232s
+        time_connect:  0.051215s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051294s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079429s
+                     ----------
+          time_total:  0.079501s
+{"status":"UP"}
+     time_namelookup:  0.022478s
+        time_connect:  0.051886s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051940s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079901s
+                     ----------
+          time_total:  0.079982s
+{"status":"UP"}
+     time_namelookup:  0.021526s
+        time_connect:  0.051476s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.051549s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081575s
+                     ----------
+          time_total:  0.081643s
+{"status":"UP"}
+     time_namelookup:  0.024654s
+        time_connect:  0.055979s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.056063s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.086898s
+                     ----------
+          time_total:  0.086973s
+{"status":"UP"}
+     time_namelookup:  0.021285s
+        time_connect:  0.054605s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.054681s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.083107s
+                     ----------
+          time_total:  0.083234s
+{"status":"UP"}
+     time_namelookup:  0.021692s
+        time_connect:  0.049880s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.049930s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079225s
+                     ----------
+          time_total:  0.079350s
+{"status":"UP"}
+     time_namelookup:  0.023238s
+        time_connect:  0.052110s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.052165s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.079237s
+                     ----------
+          time_total:  0.079311s
+{"status":"UP"}
+     time_namelookup:  0.019843s
+        time_connect:  0.048743s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.048819s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.077661s
+                     ----------
+          time_total:  0.077726s
+{"status":"UP"}
+     time_namelookup:  0.023039s
+        time_connect:  0.050417s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.050474s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078002s
+                     ----------
+          time_total:  0.078073s
+{"status":"UP"}
+     time_namelookup:  0.019476s
+        time_connect:  0.048788s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.048832s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.078193s
+                     ----------
+          time_total:  0.078271s
+{"status":"UP"}
+     time_namelookup:  0.021738s
+        time_connect:  0.053675s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053862s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.081440s
+                     ----------
+          time_total:  0.081512s
+{"status":"UP"}
+     time_namelookup:  0.040569s
+        time_connect:  0.071361s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.071434s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.101576s
+                     ----------
+          time_total:  0.101711s
+{"status":"UP"}
+     time_namelookup:  0.024677s
+        time_connect:  0.059049s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.059090s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.089052s
+                     ----------
+          time_total:  0.089109s
+{"status":"UP"}
+     time_namelookup:  0.024635s
+        time_connect:  0.047171s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.047208s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.075385s
+                     ----------
+          time_total:  0.075420s
+{"status":"UP"}
+     time_namelookup:  0.024492s
+        time_connect:  0.053147s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.053187s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.082640s
+                     ----------
+          time_total:  0.082705s
