@@ -1,7 +1,7 @@
 resource "aws_security_group" "sg-ecs" {
   name        = "${var.prefix}-ecs-cdc"
   description = "open 8080 to 8099 inbound"
-  vpc_id      = "${aws_vpc.vpc-eventuate.id}"
+  vpc_id      = aws_vpc.vpc-eventuate.id
 
   ingress {
     from_port = 8080
@@ -12,7 +12,7 @@ resource "aws_security_group" "sg-ecs" {
       "${aws_security_group.sg-alb.id}",
     ]
 
-    cidr_blocks = "${var.ingress_cidr}"
+    cidr_blocks = var.ingress_cidr
   }
 
   egress {
@@ -25,7 +25,7 @@ resource "aws_security_group" "sg-ecs" {
     ]
   }
 
-  tags {
+  tags = {
     Name = "ecs-eventuate"
   }
 }
@@ -33,7 +33,7 @@ resource "aws_security_group" "sg-ecs" {
 resource "aws_security_group" "sg-rds" {
   name        = "${var.prefix}-sgrds"
   description = "RDS security group"
-  vpc_id      = "${aws_vpc.vpc-eventuate.id}"
+  vpc_id      = aws_vpc.vpc-eventuate.id
 
   ingress {
     from_port = 0
@@ -51,7 +51,7 @@ resource "aws_security_group" "sg-rds" {
       "${aws_security_group.sg-ecs.id}",
     ]
 
-    cidr_blocks = "${var.ingress_cidr}"
+    cidr_blocks = var.ingress_cidr
   }
 
   egress {
@@ -64,7 +64,7 @@ resource "aws_security_group" "sg-rds" {
     ]
   }
 
-  tags {
+  tags = {
     Name = "rds-eventuate"
   }
 }
@@ -72,22 +72,22 @@ resource "aws_security_group" "sg-rds" {
 resource "aws_security_group" "sg_kafka" {
   name        = "${var.prefix}-sgkafka"
   description = "only 9092-9094, 2181 inbound"
-  vpc_id      = "${aws_vpc.vpc-eventuate.id}"
+  vpc_id      = aws_vpc.vpc-eventuate.id
 
   ingress {
-    from_port   = 9092
-    to_port     = 9094
-    protocol    = "TCP"
-    cidr_blocks = "${var.ingress_cidr}"
+    from_port       = 9092
+    to_port         = 9094
+    protocol        = "TCP"
+    cidr_blocks     = var.ingress_cidr
     security_groups = ["${aws_security_group.sg-ecs.id}"]
   }
 
 
   ingress {
-    from_port   = 2181
-    to_port     = 2181
-    protocol    = "TCP"
-    cidr_blocks = "${var.ingress_cidr}"
+    from_port       = 2181
+    to_port         = 2181
+    protocol        = "TCP"
+    cidr_blocks     = var.ingress_cidr
     security_groups = ["${aws_security_group.sg-ecs.id}"]
   }
 
@@ -98,28 +98,28 @@ resource "aws_security_group" "sg_kafka" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 
-  tags {
+  tags = {
     Name = "sg-kafka"
   }
 }
 
 resource "aws_security_group" "sg-alb" {
-  name = "${var.prefix}-ecs-alb"
+  name        = "${var.prefix}-ecs-alb"
   description = "only 80 inbound"
-  vpc_id = "${aws_vpc.vpc-eventuate.id}"
+  vpc_id      = aws_vpc.vpc-eventuate.id
   ingress {
-    from_port    = 80
-    to_port      = 80
-    protocol     = "TCP"
-    cidr_blocks  = "${var.ingress_cidr}"
+    from_port   = 80
+    to_port     = 80
+    protocol    = "TCP"
+    cidr_blocks = var.ingress_cidr
   }
   egress {
-    from_port = 0
-    to_port = 0
-    protocol = "-1"
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  tags {
+  tags = {
     Name = "ecs-alb"
   }
 }
@@ -127,7 +127,7 @@ resource "aws_security_group" "sg-alb" {
 resource "aws_security_group" "sg-docdb" {
   name        = "${var.prefix}-sgdocdb"
   description = "DocDB security group"
-  vpc_id      = "${aws_vpc.vpc-eventuate.id}"
+  vpc_id      = aws_vpc.vpc-eventuate.id
 
   ingress {
     from_port = 0
@@ -145,7 +145,7 @@ resource "aws_security_group" "sg-docdb" {
       "${aws_security_group.sg-ecs.id}",
     ]
 
-    cidr_blocks = "${var.ingress_cidr}"
+    cidr_blocks = var.ingress_cidr
   }
 
   egress {
@@ -158,7 +158,7 @@ resource "aws_security_group" "sg-docdb" {
     ]
   }
 
-  tags {
+  tags = {
     Name = "rds-eventuate"
   }
 }

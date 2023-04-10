@@ -4,7 +4,7 @@ resource "aws_msk_cluster" "eventuate" {
   number_of_broker_nodes = 3
 
   broker_node_group_info {
-    instance_type   = "kafka.m5.large"
+    instance_type   = "kafka.t3.small"
     ebs_volume_size = "100"
 
     client_subnets = [
@@ -17,16 +17,16 @@ resource "aws_msk_cluster" "eventuate" {
   }
 
   encryption_info {
-    encryption_at_rest_kms_key_arn = "${aws_kms_key.kms.arn}"
+    encryption_at_rest_kms_key_arn = aws_kms_key.kms.arn
 
-    encryption_in_transit = {
+    encryption_in_transit {
       client_broker = "TLS_PLAINTEXT"
     }
   }
 
   configuration_info {
-    arn      = "${aws_msk_configuration.msk.arn}"
-    revision = "${aws_msk_configuration.msk.latest_revision}"
+    arn      = aws_msk_configuration.msk.arn
+    revision = aws_msk_configuration.msk.latest_revision
   }
 
   tags = {
@@ -49,15 +49,15 @@ resource "aws_kms_key" "kms" {
 }
 
 output "zookeeper_connect_string" {
-  value = "${aws_msk_cluster.eventuate.zookeeper_connect_string}"
+  value = aws_msk_cluster.eventuate.zookeeper_connect_string
 }
 
 output "bootstrap_brokers_tls" {
   description = "TLS connection host:port pairs"
-  value       = "${aws_msk_cluster.eventuate.bootstrap_brokers_tls}"
+  value       = aws_msk_cluster.eventuate.bootstrap_brokers_tls
 }
 
 output "bootstrap_brokers" {
   description = "TLS connection host:port pairs"
-  value       = "${aws_msk_cluster.eventuate.bootstrap_brokers}"
+  value       = aws_msk_cluster.eventuate.bootstrap_brokers
 }

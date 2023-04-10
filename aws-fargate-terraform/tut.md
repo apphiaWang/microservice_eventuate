@@ -1,0 +1,2 @@
+- [video explaining terraform](https://www.youtube.com/watch?v=l5k1ai_GBDE)
+- [terraform with aws tryout](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code)

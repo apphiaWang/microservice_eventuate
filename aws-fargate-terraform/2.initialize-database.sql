@@ -9,6 +9,7 @@ CREATE TABLE message (
   headers VARCHAR(1000) NOT NULL,
   payload VARCHAR(1000) NOT NULL,
   published SMALLINT DEFAULT 0,
+  message_partition SMALLINT, 
   creation_time BIGINT
 );
 
@@ -18,6 +19,7 @@ CREATE TABLE received_messages (
   consumer_id VARCHAR(767),
   message_id VARCHAR(767),
   PRIMARY KEY(consumer_id, message_id),
+  published SMALLINT DEFAULT 0,
   creation_time BIGINT
 );
 

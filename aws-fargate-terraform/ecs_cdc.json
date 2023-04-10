@@ -68,9 +68,13 @@
         {
           "name": "SPRING_DATASOURCE_USERNAME",
           "value": "${db_user}"
+        },
+        {
+          "name": "EVENTUATE_OUTBOX_ID",
+          "value": "1"
         }
       ],
-      "image": "eventuateio/eventuate-cdc-service:0.4.0.RELEASE",
+      "image": "eventuateio/eventuate-cdc-service:0.14.0.RELEASE",
       "dependsOn": [
 
       ],

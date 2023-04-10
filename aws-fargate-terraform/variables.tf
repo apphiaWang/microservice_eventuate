@@ -1,13 +1,13 @@
 variable "region" {
-  default = "us-east-2"
+  default = "us-west-2"
 }
 
 variable "access_key" {
-  default = ""
+  default = "AKIAYRU7ZTX66ATJCY5A"
 }
 
 variable "secret_key" {
-  default = ""
+  default = "/fAFoa+IYy/Rj2QFalp3GNAoNUEvFR9kA+W3XTHr"
 }
 
 variable "instanceTenancy" {
@@ -50,15 +50,15 @@ variable "mapPublicIP" {
 }
 
 variable "az1" {
-  default = "us-east-2a"
+  default = "us-west-2a"
 }
 
 variable "az2" {
-  default = "us-east-2b"
+  default = "us-west-2b"
 }
 
 variable "az3" {
-  default = "us-east-2c"
+  default = "us-west-2c"
 }
 
 variable "rds_username" {
@@ -74,7 +74,7 @@ variable "ingress_cidr" {
     "0.0.0.0/0",
   ]
 
-  type = "list"
+  type = list(any)
 }
 
 variable "prefix" {
@@ -86,17 +86,19 @@ variable "docdb_username" {
 }
 
 variable "git_pat" {
+  default="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"
 }
 
 variable "git_username" {
+  default = "apphiaWang"
 }
 
 variable "enable_codepipeline" {
-  type = "string"
+  type    = string
   default = "false"
 }
 
 variable "docker_hub_image_prefix" {
-  type = "string"
+  type    = string
   default = "eventuateexamples/eventuate-tram-examples-customers-and-orders-"
 }

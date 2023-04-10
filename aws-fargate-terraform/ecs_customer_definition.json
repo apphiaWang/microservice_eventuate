@@ -46,12 +46,5 @@
   ],
   "image": "${image_uri}",
   "essential": true,
-  "name": "customer",
-  "healthCheck" : {
-    "command" : [ "CMD-SHELL", "curl -f http://localhost:8080/actuator/health || exit 1" ],
-    "interval": 30,
-    "retries": 3,
-    "startPeriod": 60,
-    "timeout": 5
-  }
+  "name": "customer"
 }]
